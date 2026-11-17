@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 课件提取文本，版权归课程组，不入库
+sources/
+_backup/
